@@ -1,0 +1,6 @@
+PAss picture through the resnet pretrained model. 
+we will extract the features in the intermediate layer and compare them.
+
+Low variance → Features are too uniform → Likely AI-generated.
+
+High variance → Features are diverse → Likely real.
